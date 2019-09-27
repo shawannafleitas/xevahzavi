@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xuirolovi.bettyandtheblushtones.co.uk/sitemap.xml
